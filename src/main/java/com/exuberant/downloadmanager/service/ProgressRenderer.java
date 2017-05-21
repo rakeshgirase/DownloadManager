@@ -1,3 +1,5 @@
+package com.exuberant.downloadmanager.service;
+
 import java.awt.Component;
 
 import javax.swing.JProgressBar;

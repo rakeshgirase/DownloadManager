@@ -1,3 +1,5 @@
+package com.exuberant.downloadmanager.service;
+
 import com.exuberant.downloadmanager.service.Download;
 
 import java.util.ArrayList;
